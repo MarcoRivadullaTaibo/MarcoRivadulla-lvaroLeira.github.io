@@ -1,11 +1,7 @@
 # MarcoRivadulla-lvaroLeira.github.io
 
 <html>
-<head>
-<title> Nuestro proyecto </title>
-</head>
-
 <body>
-<h1> Explicación del proyecto --- Enlace al proyecto </h1>
+<h1> Esta es la sencilla página web que hemos creado sobre las motos y los coches --- Enlace al proyecto </h1>
 </body>
 </html>
