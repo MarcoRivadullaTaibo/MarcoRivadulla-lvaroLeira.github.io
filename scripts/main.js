@@ -17,4 +17,9 @@ let myImage = document.querySelector("img");
       setUserName();
       } else {
       localStorage.setItem("name", myName);
-      myHeading.innerHTML = 
+      myHeading.innerHTML = "Los Porsche son los mejores coches deportivos, no" + myName;
+      }
+     
+     myButton.onclick = function() {
+      setUserName();
+     }
